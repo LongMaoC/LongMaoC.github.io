@@ -336,4 +336,4 @@ private Object _navigation(final Context context, final Postcard postcard, final
 * QQ: 1209101049
 
 
-如果觉得本文对你有用,给个star呗：）<a href="https://github.com/LongMaoC/LongMaoC.github.io/blob/master/201704/arouter%E5%88%86%E6%9E%90.md">点赞</a>
+如果觉得本文对你有用,给个star呗：）[点赞]("https://github.com/LongMaoC/LongMaoC.github.io/blob/master/201704/arouter分析.md")
